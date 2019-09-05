@@ -33,7 +33,7 @@
 
 .hotel-view {
     //background-color: #fff;
-    height: 80rem;
+    //height: 80rem;
 
     flex: 1; // the element can grow as much as it can
 }
@@ -47,10 +47,11 @@
 }
 
 .description {
-    background-color: orange;
+    font-size: 1.4rem;
+    background-color: #fff;
     box-shadow: var(--shadow-light);
     padding: 3rem;
-    flex: 0, 0, 60%;
+    flex: 0 0 60%;
     margin-right: 4.5rem;
 
 }
