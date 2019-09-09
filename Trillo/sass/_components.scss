@@ -536,4 +536,12 @@
     &:hover &__invisible {
         top: 0;
     }
+
+    &:hover {
+        background-image: linear-gradient(to left, var(--color-primary-light), var(--color-primary-dark))
+    }
+    &:focus {
+        outline: none;
+        animation: pulsate 1s infinite;
+    }
 }
