@@ -420,4 +420,9 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    top: -100%; }
+    top: -100%;
+    transition: all .2s; }
+  .btn:hover .btn__visible {
+    transform: translateY(100%); }
+  .btn:hover .btn__invisible {
+    top: 0; }
