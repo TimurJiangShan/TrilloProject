@@ -1,5 +1,5 @@
 # TrilloProject
-## Implemented by SASS(Flexbox)
+## Implemented by SASS
 ### Web layout and design 
 ### Responsive
 
